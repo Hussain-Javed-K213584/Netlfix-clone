@@ -10,7 +10,7 @@
 <body>
     <div class="first">
         <img id="top-img" src="https://assets.nflxext.com/ffe/siteui/vlv3/20876cab-b49d-4957-bbaf-906ceb1c05f1/d87b378b-04e5-4256-9cfa-5ff06a59faef/PK-en-20220117-popsignuptwoweeks-perspective_alpha_website_small.jpg" alt="Netflix">
-        <img id="logo" src="Logo.png" alt="netflixlogo"> 
+        <img id="logo" src="../Logo.png" alt="netflixlogo"> 
         <a id="sign" href="https://www.netflix.com/login">Sign in</a>
         <h1 id="main">Unlimited movies, TV<br> shows, and more.</h1>
         <p id="cont">Watch anywhere. Cancel anytime.</p>
